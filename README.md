@@ -10,7 +10,7 @@ I am a recent Computer Science and Engineering graduate with a strong passion fo
 * **Automation and Manual Testing Course** 
   * *Institution:* Fortune Cloud Technologies, Pune.
 * **Professional Training & Project Internship** 
-  * *Institution:* Gravita Technologies, Pune *(Completed hands-on Manual and Automation testing projects here)*.
+  * *Institution:* Cravita Technologies, Pune *(Completed hands-on Manual and Automation testing projects here)*.
 
 ---
 
